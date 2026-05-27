@@ -1,0 +1,64 @@
+# Anseba — Eritrea Administrative Divisions
+
+> 11 sub-regions
+> Code: ER4
+> Coordinates: 16.506, 37.593
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Sub-regions
+
+### Adi Tekeliezan
+
+Code: ER401, Coordinates: 15.608, 38.775
+
+
+### Asmat
+
+Code: ER408, Coordinates: 16.371, 37.975
+
+
+### Elabered
+
+Code: ER402, Coordinates: 15.68, 38.526
+
+
+### Gheleb
+
+Code: ER403, Coordinates: 15.796, 38.708
+
+
+### Habero
+
+Code: ER407, Coordinates: 16.296, 38.335
+
+
+### Hagaz
+
+Code: ER405, Coordinates: 15.755, 38.293
+
+
+### Halhal
+
+Code: ER406, Coordinates: 16.031, 38.22
+
+
+### Hamelmalo
+
+Code: ER411, Coordinates: 15.915, 38.434
+
+
+### Keren
+
+Code: ER404, Coordinates: 15.802, 38.417
+
+
+### Kerkebet
+
+Code: ER409, Coordinates: 16.113, 37.508
+
+
+### Sela
+
+Code: ER410, Coordinates: 16.889, 37.454
+
+

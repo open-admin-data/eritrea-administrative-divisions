@@ -1,0 +1,45 @@
+{
+  "id": "ER514",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Molqi",
+    "en": "Molqi",
+    "slug": "molqi-er514"
+  },
+  "code": {
+    "id": "ER514",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER5",
+    "level": 1,
+    "name": {
+      "local": "Gash Barka",
+      "en": "Gash Barka",
+      "slug": "gash-barka-er5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.994",
+    "lon": "38.275"
+  },
+  "metadata": {},
+  "source": {}
+}

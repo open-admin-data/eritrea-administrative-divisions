@@ -1,0 +1,29 @@
+{
+  "id": "ER3",
+  "level": 1,
+  "level_name": {
+    "local": "ዞባ",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Semienawi Keih Bahri",
+    "en": "Semienawi Keih Bahri",
+    "slug": "semienawi-keih-bahri-er3"
+  },
+  "code": {
+    "id": "ER3",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "subregion": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.156",
+    "lon": "38.852"
+  },
+  "metadata": {},
+  "source": {}
+}

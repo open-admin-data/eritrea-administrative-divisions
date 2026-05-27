@@ -1,0 +1,45 @@
+{
+  "id": "ER310",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Adobha",
+    "en": "Adobha",
+    "slug": "adobha-er310"
+  },
+  "code": {
+    "id": "ER310",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER3",
+    "level": 1,
+    "name": {
+      "local": "Semienawi Keih Bahri",
+      "en": "Semienawi Keih Bahri",
+      "slug": "semienawi-keih-bahri-er3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.204",
+    "lon": "38.101"
+  },
+  "metadata": {},
+  "source": {}
+}

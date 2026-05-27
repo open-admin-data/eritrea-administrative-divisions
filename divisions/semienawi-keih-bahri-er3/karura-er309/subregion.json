@@ -1,0 +1,45 @@
+{
+  "id": "ER309",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Karura",
+    "en": "Karura",
+    "slug": "karura-er309"
+  },
+  "code": {
+    "id": "ER309",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER3",
+    "level": 1,
+    "name": {
+      "local": "Semienawi Keih Bahri",
+      "en": "Semienawi Keih Bahri",
+      "slug": "semienawi-keih-bahri-er3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.385",
+    "lon": "38.609"
+  },
+  "metadata": {},
+  "source": {}
+}

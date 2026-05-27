@@ -1,0 +1,45 @@
+{
+  "id": "ER407",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Habero",
+    "en": "Habero",
+    "slug": "habero-er407"
+  },
+  "code": {
+    "id": "ER407",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER4",
+    "level": 1,
+    "name": {
+      "local": "Anseba",
+      "en": "Anseba",
+      "slug": "anseba-er4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.296",
+    "lon": "38.335"
+  },
+  "metadata": {},
+  "source": {}
+}

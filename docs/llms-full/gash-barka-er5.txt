@@ -1,0 +1,79 @@
+# Gash Barka — Eritrea Administrative Divisions
+
+> 14 sub-regions
+> Code: ER5
+> Coordinates: 15.251, 37.626
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Sub-regions
+
+### Akurdet
+
+Code: ER503, Coordinates: 15.559, 37.937
+
+
+### Barentu
+
+Code: ER507, Coordinates: 15.11, 37.657
+
+
+### Dige
+
+Code: ER504, Coordinates: 15.722, 37.559
+
+
+### Forto
+
+Code: ER509, Coordinates: 15.822, 36.974
+
+
+### Gogne
+
+Code: ER508, Coordinates: 15.144, 37.381
+
+
+### Haykota
+
+Code: ER510, Coordinates: 15.215, 36.969
+
+
+### Lalay Gash
+
+Code: ER511, Coordinates: 14.622, 37.418
+
+
+### Logo Anseba
+
+Code: ER501, Coordinates: 15.401, 38.674
+
+
+### Mensura
+
+Code: ER502, Coordinates: 15.48, 38.248
+
+
+### Mogolo
+
+Code: ER505, Coordinates: 15.326, 37.732
+
+
+### Molqi
+
+Code: ER514, Coordinates: 14.994, 38.275
+
+
+### Omhajer
+
+Code: ER512, Coordinates: 14.648, 36.779
+
+
+### Shambuko
+
+Code: ER506, Coordinates: 14.923, 37.915
+
+
+### Tesseney
+
+Code: ER513, Coordinates: 15.181, 36.59
+
+

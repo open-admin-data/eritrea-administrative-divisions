@@ -1,0 +1,44 @@
+# Maekel — Eritrea Administrative Divisions
+
+> 7 sub-regions
+> Code: ER2
+> Coordinates: 15.37, 38.883
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Sub-regions
+
+### Berik
+
+Code: ER202, Coordinates: 15.386, 38.827
+
+
+### Debubawi Mibrak
+
+Code: ER205, Coordinates: 15.319, 38.947
+
+
+### Debubawi Mierab
+
+Code: ER206, Coordinates: 15.31, 38.91
+
+
+### Galanefhi
+
+Code: ER203, Coordinates: 15.262, 38.872
+
+
+### Semienawi Mibrak
+
+Code: ER204, Coordinates: 15.353, 38.961
+
+
+### Semienawi Mierab
+
+Code: ER207, Coordinates: 15.377, 38.932
+
+
+### Serejeka
+
+Code: ER201, Coordinates: 15.455, 38.899
+
+

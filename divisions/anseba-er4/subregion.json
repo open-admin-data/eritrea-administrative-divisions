@@ -1,0 +1,497 @@
+[
+  {
+    "id": "ER401",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Adi Tekeliezan",
+      "en": "Adi Tekeliezan",
+      "slug": "adi-tekeliezan-er401"
+    },
+    "code": {
+      "id": "ER401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.608",
+      "lon": "38.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER408",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Asmat",
+      "en": "Asmat",
+      "slug": "asmat-er408"
+    },
+    "code": {
+      "id": "ER408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.371",
+      "lon": "37.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER402",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Elabered",
+      "en": "Elabered",
+      "slug": "elabered-er402"
+    },
+    "code": {
+      "id": "ER402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.68",
+      "lon": "38.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER403",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Gheleb",
+      "en": "Gheleb",
+      "slug": "gheleb-er403"
+    },
+    "code": {
+      "id": "ER403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.796",
+      "lon": "38.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER407",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Habero",
+      "en": "Habero",
+      "slug": "habero-er407"
+    },
+    "code": {
+      "id": "ER407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.296",
+      "lon": "38.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER405",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Hagaz",
+      "en": "Hagaz",
+      "slug": "hagaz-er405"
+    },
+    "code": {
+      "id": "ER405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.755",
+      "lon": "38.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER406",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Halhal",
+      "en": "Halhal",
+      "slug": "halhal-er406"
+    },
+    "code": {
+      "id": "ER406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.031",
+      "lon": "38.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER411",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Hamelmalo",
+      "en": "Hamelmalo",
+      "slug": "hamelmalo-er411"
+    },
+    "code": {
+      "id": "ER411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.915",
+      "lon": "38.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER404",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Keren",
+      "en": "Keren",
+      "slug": "keren-er404"
+    },
+    "code": {
+      "id": "ER404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.802",
+      "lon": "38.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER409",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Kerkebet",
+      "en": "Kerkebet",
+      "slug": "kerkebet-er409"
+    },
+    "code": {
+      "id": "ER409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "37.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER410",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Sela",
+      "en": "Sela",
+      "slug": "sela-er410"
+    },
+    "code": {
+      "id": "ER410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.889",
+      "lon": "37.454"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

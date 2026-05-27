@@ -1,0 +1,45 @@
+{
+  "id": "ER102",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Maekel Deb.Keih Bahri",
+    "en": "Maekel Deb.Keih Bahri",
+    "slug": "maekel-debkeih-bahri-er102"
+  },
+  "code": {
+    "id": "ER102",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER1",
+    "level": 1,
+    "name": {
+      "local": "Debubawi Keih Bahri",
+      "en": "Debubawi Keih Bahri",
+      "slug": "debubawi-keih-bahri-er1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER1",
+      "level": 1,
+      "name": {
+        "local": "Debubawi Keih Bahri",
+        "en": "Debubawi Keih Bahri",
+        "slug": "debubawi-keih-bahri-er1"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.746",
+    "lon": "41.55"
+  },
+  "metadata": {},
+  "source": {}
+}

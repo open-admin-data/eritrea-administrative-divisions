@@ -1,0 +1,59 @@
+# Semienawi Keih Bahri — Eritrea Administrative Divisions
+
+> 10 sub-regions
+> Code: ER3
+> Coordinates: 16.156, 38.852
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Sub-regions
+
+### Adobha
+
+Code: ER310, Coordinates: 17.204, 38.101
+
+
+### Afabet
+
+Code: ER307, Coordinates: 16.404, 38.815
+
+
+### Dahlak
+
+Code: ER303, Coordinates: 15.726, 40.081
+
+
+### Foro
+
+Code: ER302, Coordinates: 15.185, 39.459
+
+
+### Ghelaelo
+
+Code: ER301, Coordinates: 14.907, 40.027
+
+
+### Ghinda
+
+Code: ER305, Coordinates: 15.477, 39.182
+
+
+### Karura
+
+Code: ER309, Coordinates: 17.385, 38.609
+
+
+### Massawa
+
+Code: ER304, Coordinates: 15.643, 39.391
+
+
+### Nakfa
+
+Code: ER308, Coordinates: 16.728, 38.269
+
+
+### Shieb
+
+Code: ER306, Coordinates: 15.818, 39.126
+
+

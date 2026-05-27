@@ -1,0 +1,45 @@
+{
+  "id": "ER406",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Halhal",
+    "en": "Halhal",
+    "slug": "halhal-er406"
+  },
+  "code": {
+    "id": "ER406",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER4",
+    "level": 1,
+    "name": {
+      "local": "Anseba",
+      "en": "Anseba",
+      "slug": "anseba-er4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.031",
+    "lon": "38.22"
+  },
+  "metadata": {},
+  "source": {}
+}

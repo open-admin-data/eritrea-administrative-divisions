@@ -1,0 +1,29 @@
+{
+  "id": "ER4",
+  "level": 1,
+  "level_name": {
+    "local": "ዞባ",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Anseba",
+    "en": "Anseba",
+    "slug": "anseba-er4"
+  },
+  "code": {
+    "id": "ER4",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "subregion": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.506",
+    "lon": "37.593"
+  },
+  "metadata": {},
+  "source": {}
+}

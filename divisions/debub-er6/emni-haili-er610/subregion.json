@@ -1,0 +1,45 @@
+{
+  "id": "ER610",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Emni Haili",
+    "en": "Emni Haili",
+    "slug": "emni-haili-er610"
+  },
+  "code": {
+    "id": "ER610",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER6",
+    "level": 1,
+    "name": {
+      "local": "Debub",
+      "en": "Debub",
+      "slug": "debub-er6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.718",
+    "lon": "38.716"
+  },
+  "metadata": {},
+  "source": {}
+}

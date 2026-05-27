@@ -1,0 +1,45 @@
+{
+  "id": "ER508",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Gogne",
+    "en": "Gogne",
+    "slug": "gogne-er508"
+  },
+  "code": {
+    "id": "ER508",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER5",
+    "level": 1,
+    "name": {
+      "local": "Gash Barka",
+      "en": "Gash Barka",
+      "slug": "gash-barka-er5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.144",
+    "lon": "37.381"
+  },
+  "metadata": {},
+  "source": {}
+}

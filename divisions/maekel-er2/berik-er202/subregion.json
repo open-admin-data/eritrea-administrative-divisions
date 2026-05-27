@@ -1,0 +1,45 @@
+{
+  "id": "ER202",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Berik",
+    "en": "Berik",
+    "slug": "berik-er202"
+  },
+  "code": {
+    "id": "ER202",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER2",
+    "level": 1,
+    "name": {
+      "local": "Maekel",
+      "en": "Maekel",
+      "slug": "maekel-er2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.386",
+    "lon": "38.827"
+  },
+  "metadata": {},
+  "source": {}
+}

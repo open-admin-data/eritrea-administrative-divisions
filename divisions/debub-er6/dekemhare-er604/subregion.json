@@ -1,0 +1,45 @@
+{
+  "id": "ER604",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Dekemhare",
+    "en": "Dekemhare",
+    "slug": "dekemhare-er604"
+  },
+  "code": {
+    "id": "ER604",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER6",
+    "level": 1,
+    "name": {
+      "local": "Debub",
+      "en": "Debub",
+      "slug": "debub-er6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.09",
+    "lon": "39.013"
+  },
+  "metadata": {},
+  "source": {}
+}

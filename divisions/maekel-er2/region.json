@@ -1,0 +1,29 @@
+{
+  "id": "ER2",
+  "level": 1,
+  "level_name": {
+    "local": "ዞባ",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Maekel",
+    "en": "Maekel",
+    "slug": "maekel-er2"
+  },
+  "code": {
+    "id": "ER2",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "subregion": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.37",
+    "lon": "38.883"
+  },
+  "metadata": {},
+  "source": {}
+}

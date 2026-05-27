@@ -1,0 +1,45 @@
+{
+  "id": "ER607",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Senafe",
+    "en": "Senafe",
+    "slug": "senafe-er607"
+  },
+  "code": {
+    "id": "ER607",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER6",
+    "level": 1,
+    "name": {
+      "local": "Debub",
+      "en": "Debub",
+      "slug": "debub-er6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.702",
+    "lon": "39.487"
+  },
+  "metadata": {},
+  "source": {}
+}

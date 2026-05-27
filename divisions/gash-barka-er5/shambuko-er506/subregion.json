@@ -1,0 +1,45 @@
+{
+  "id": "ER506",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Shambuko",
+    "en": "Shambuko",
+    "slug": "shambuko-er506"
+  },
+  "code": {
+    "id": "ER506",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER5",
+    "level": 1,
+    "name": {
+      "local": "Gash Barka",
+      "en": "Gash Barka",
+      "slug": "gash-barka-er5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.923",
+    "lon": "37.915"
+  },
+  "metadata": {},
+  "source": {}
+}

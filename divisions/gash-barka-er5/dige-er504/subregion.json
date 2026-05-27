@@ -1,0 +1,45 @@
+{
+  "id": "ER504",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Dige",
+    "en": "Dige",
+    "slug": "dige-er504"
+  },
+  "code": {
+    "id": "ER504",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER5",
+    "level": 1,
+    "name": {
+      "local": "Gash Barka",
+      "en": "Gash Barka",
+      "slug": "gash-barka-er5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.722",
+    "lon": "37.559"
+  },
+  "metadata": {},
+  "source": {}
+}

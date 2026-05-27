@@ -1,0 +1,45 @@
+{
+  "id": "ER204",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Semienawi Mibrak",
+    "en": "Semienawi Mibrak",
+    "slug": "semienawi-mibrak-er204"
+  },
+  "code": {
+    "id": "ER204",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER2",
+    "level": 1,
+    "name": {
+      "local": "Maekel",
+      "en": "Maekel",
+      "slug": "maekel-er2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.353",
+    "lon": "38.961"
+  },
+  "metadata": {},
+  "source": {}
+}

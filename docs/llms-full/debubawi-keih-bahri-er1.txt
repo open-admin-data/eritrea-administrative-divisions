@@ -1,0 +1,29 @@
+# Debubawi Keih Bahri — Eritrea Administrative Divisions
+
+> 4 sub-regions
+> Code: ER1
+> Coordinates: 13.689, 41.653
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Sub-regions
+
+### Araeta
+
+Code: ER101, Coordinates: 14.412, 40.917
+
+
+### Asseb
+
+Code: ER104, Coordinates: 12.973, 42.665
+
+
+### Debub Deb.Keih Bahri
+
+Code: ER103, Coordinates: 13.08, 42.252
+
+
+### Maekel Deb.Keih Bahri
+
+Code: ER102, Coordinates: 13.746, 41.55
+
+

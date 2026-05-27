@@ -1,0 +1,45 @@
+{
+  "id": "ER303",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Dahlak",
+    "en": "Dahlak",
+    "slug": "dahlak-er303"
+  },
+  "code": {
+    "id": "ER303",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER3",
+    "level": 1,
+    "name": {
+      "local": "Semienawi Keih Bahri",
+      "en": "Semienawi Keih Bahri",
+      "slug": "semienawi-keih-bahri-er3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.726",
+    "lon": "40.081"
+  },
+  "metadata": {},
+  "source": {}
+}

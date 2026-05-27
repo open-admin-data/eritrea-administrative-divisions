@@ -1,0 +1,45 @@
+{
+  "id": "ER611",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Maimine",
+    "en": "Maimine",
+    "slug": "maimine-er611"
+  },
+  "code": {
+    "id": "ER611",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER6",
+    "level": 1,
+    "name": {
+      "local": "Debub",
+      "en": "Debub",
+      "slug": "debub-er6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.553",
+    "lon": "38.506"
+  },
+  "metadata": {},
+  "source": {}
+}

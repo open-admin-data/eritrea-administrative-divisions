@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ER202",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Berik",
+      "en": "Berik",
+      "slug": "berik-er202"
+    },
+    "code": {
+      "id": "ER202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.386",
+      "lon": "38.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER205",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Debubawi Mibrak",
+      "en": "Debubawi Mibrak",
+      "slug": "debubawi-mibrak-er205"
+    },
+    "code": {
+      "id": "ER205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.319",
+      "lon": "38.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER206",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Debubawi Mierab",
+      "en": "Debubawi Mierab",
+      "slug": "debubawi-mierab-er206"
+    },
+    "code": {
+      "id": "ER206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.31",
+      "lon": "38.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER203",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Galanefhi",
+      "en": "Galanefhi",
+      "slug": "galanefhi-er203"
+    },
+    "code": {
+      "id": "ER203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.262",
+      "lon": "38.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER204",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Semienawi Mibrak",
+      "en": "Semienawi Mibrak",
+      "slug": "semienawi-mibrak-er204"
+    },
+    "code": {
+      "id": "ER204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.353",
+      "lon": "38.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER207",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Semienawi Mierab",
+      "en": "Semienawi Mierab",
+      "slug": "semienawi-mierab-er207"
+    },
+    "code": {
+      "id": "ER207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.377",
+      "lon": "38.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER201",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Serejeka",
+      "en": "Serejeka",
+      "slug": "serejeka-er201"
+    },
+    "code": {
+      "id": "ER201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.455",
+      "lon": "38.899"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

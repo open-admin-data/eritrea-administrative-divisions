@@ -1,0 +1,2612 @@
+[
+  {
+    "id": "ER606",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Adi Keyh",
+      "en": "Adi Keyh",
+      "slug": "adi-keyh-er606"
+    },
+    "code": {
+      "id": "ER606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER6",
+        "level": 1,
+        "name": {
+          "local": "Debub",
+          "en": "Debub",
+          "slug": "debub-er6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.884",
+      "lon": "39.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER609",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Adi Quala",
+      "en": "Adi Quala",
+      "slug": "adi-quala-er609"
+    },
+    "code": {
+      "id": "ER609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER6",
+        "level": 1,
+        "name": {
+          "local": "Debub",
+          "en": "Debub",
+          "slug": "debub-er6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.613",
+      "lon": "38.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER401",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Adi Tekeliezan",
+      "en": "Adi Tekeliezan",
+      "slug": "adi-tekeliezan-er401"
+    },
+    "code": {
+      "id": "ER401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.608",
+      "lon": "38.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER310",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Adobha",
+      "en": "Adobha",
+      "slug": "adobha-er310"
+    },
+    "code": {
+      "id": "ER310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER3",
+        "level": 1,
+        "name": {
+          "local": "Semienawi Keih Bahri",
+          "en": "Semienawi Keih Bahri",
+          "slug": "semienawi-keih-bahri-er3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.204",
+      "lon": "38.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER307",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Afabet",
+      "en": "Afabet",
+      "slug": "afabet-er307"
+    },
+    "code": {
+      "id": "ER307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER3",
+        "level": 1,
+        "name": {
+          "local": "Semienawi Keih Bahri",
+          "en": "Semienawi Keih Bahri",
+          "slug": "semienawi-keih-bahri-er3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.404",
+      "lon": "38.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER503",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Akurdet",
+      "en": "Akurdet",
+      "slug": "akurdet-er503"
+    },
+    "code": {
+      "id": "ER503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.559",
+      "lon": "37.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER101",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Araeta",
+      "en": "Araeta",
+      "slug": "araeta-er101"
+    },
+    "code": {
+      "id": "ER101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER1",
+      "level": 1,
+      "name": {
+        "local": "Debubawi Keih Bahri",
+        "en": "Debubawi Keih Bahri",
+        "slug": "debubawi-keih-bahri-er1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER1",
+        "level": 1,
+        "name": {
+          "local": "Debubawi Keih Bahri",
+          "en": "Debubawi Keih Bahri",
+          "slug": "debubawi-keih-bahri-er1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.412",
+      "lon": "40.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER602",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Areza",
+      "en": "Areza",
+      "slug": "areza-er602"
+    },
+    "code": {
+      "id": "ER602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER6",
+        "level": 1,
+        "name": {
+          "local": "Debub",
+          "en": "Debub",
+          "slug": "debub-er6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.878",
+      "lon": "38.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER408",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Asmat",
+      "en": "Asmat",
+      "slug": "asmat-er408"
+    },
+    "code": {
+      "id": "ER408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.371",
+      "lon": "37.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER104",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Asseb",
+      "en": "Asseb",
+      "slug": "asseb-er104"
+    },
+    "code": {
+      "id": "ER104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER1",
+      "level": 1,
+      "name": {
+        "local": "Debubawi Keih Bahri",
+        "en": "Debubawi Keih Bahri",
+        "slug": "debubawi-keih-bahri-er1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER1",
+        "level": 1,
+        "name": {
+          "local": "Debubawi Keih Bahri",
+          "en": "Debubawi Keih Bahri",
+          "slug": "debubawi-keih-bahri-er1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.973",
+      "lon": "42.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER507",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Barentu",
+      "en": "Barentu",
+      "slug": "barentu-er507"
+    },
+    "code": {
+      "id": "ER507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.11",
+      "lon": "37.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER202",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Berik",
+      "en": "Berik",
+      "slug": "berik-er202"
+    },
+    "code": {
+      "id": "ER202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.386",
+      "lon": "38.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER303",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Dahlak",
+      "en": "Dahlak",
+      "slug": "dahlak-er303"
+    },
+    "code": {
+      "id": "ER303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER3",
+        "level": 1,
+        "name": {
+          "local": "Semienawi Keih Bahri",
+          "en": "Semienawi Keih Bahri",
+          "slug": "semienawi-keih-bahri-er3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.726",
+      "lon": "40.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER601",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Dbarwa",
+      "en": "Dbarwa",
+      "slug": "dbarwa-er601"
+    },
+    "code": {
+      "id": "ER601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER6",
+        "level": 1,
+        "name": {
+          "local": "Debub",
+          "en": "Debub",
+          "slug": "debub-er6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.102",
+      "lon": "38.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER103",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Debub Deb.Keih Bahri",
+      "en": "Debub Deb.Keih Bahri",
+      "slug": "debub-debkeih-bahri-er103"
+    },
+    "code": {
+      "id": "ER103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER1",
+      "level": 1,
+      "name": {
+        "local": "Debubawi Keih Bahri",
+        "en": "Debubawi Keih Bahri",
+        "slug": "debubawi-keih-bahri-er1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER1",
+        "level": 1,
+        "name": {
+          "local": "Debubawi Keih Bahri",
+          "en": "Debubawi Keih Bahri",
+          "slug": "debubawi-keih-bahri-er1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.08",
+      "lon": "42.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER205",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Debubawi Mibrak",
+      "en": "Debubawi Mibrak",
+      "slug": "debubawi-mibrak-er205"
+    },
+    "code": {
+      "id": "ER205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.319",
+      "lon": "38.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER206",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Debubawi Mierab",
+      "en": "Debubawi Mierab",
+      "slug": "debubawi-mierab-er206"
+    },
+    "code": {
+      "id": "ER206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.31",
+      "lon": "38.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER604",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Dekemhare",
+      "en": "Dekemhare",
+      "slug": "dekemhare-er604"
+    },
+    "code": {
+      "id": "ER604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER6",
+        "level": 1,
+        "name": {
+          "local": "Debub",
+          "en": "Debub",
+          "slug": "debub-er6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.09",
+      "lon": "39.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER504",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Dige",
+      "en": "Dige",
+      "slug": "dige-er504"
+    },
+    "code": {
+      "id": "ER504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.722",
+      "lon": "37.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER402",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Elabered",
+      "en": "Elabered",
+      "slug": "elabered-er402"
+    },
+    "code": {
+      "id": "ER402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.68",
+      "lon": "38.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER610",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Emni Haili",
+      "en": "Emni Haili",
+      "slug": "emni-haili-er610"
+    },
+    "code": {
+      "id": "ER610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER6",
+        "level": 1,
+        "name": {
+          "local": "Debub",
+          "en": "Debub",
+          "slug": "debub-er6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.718",
+      "lon": "38.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER302",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Foro",
+      "en": "Foro",
+      "slug": "foro-er302"
+    },
+    "code": {
+      "id": "ER302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER3",
+        "level": 1,
+        "name": {
+          "local": "Semienawi Keih Bahri",
+          "en": "Semienawi Keih Bahri",
+          "slug": "semienawi-keih-bahri-er3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.185",
+      "lon": "39.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER509",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Forto",
+      "en": "Forto",
+      "slug": "forto-er509"
+    },
+    "code": {
+      "id": "ER509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.822",
+      "lon": "36.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER203",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Galanefhi",
+      "en": "Galanefhi",
+      "slug": "galanefhi-er203"
+    },
+    "code": {
+      "id": "ER203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.262",
+      "lon": "38.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER301",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Ghelaelo",
+      "en": "Ghelaelo",
+      "slug": "ghelaelo-er301"
+    },
+    "code": {
+      "id": "ER301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER3",
+        "level": 1,
+        "name": {
+          "local": "Semienawi Keih Bahri",
+          "en": "Semienawi Keih Bahri",
+          "slug": "semienawi-keih-bahri-er3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.907",
+      "lon": "40.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER403",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Gheleb",
+      "en": "Gheleb",
+      "slug": "gheleb-er403"
+    },
+    "code": {
+      "id": "ER403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.796",
+      "lon": "38.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER305",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Ghinda",
+      "en": "Ghinda",
+      "slug": "ghinda-er305"
+    },
+    "code": {
+      "id": "ER305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER3",
+        "level": 1,
+        "name": {
+          "local": "Semienawi Keih Bahri",
+          "en": "Semienawi Keih Bahri",
+          "slug": "semienawi-keih-bahri-er3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.477",
+      "lon": "39.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER508",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Gogne",
+      "en": "Gogne",
+      "slug": "gogne-er508"
+    },
+    "code": {
+      "id": "ER508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.144",
+      "lon": "37.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER407",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Habero",
+      "en": "Habero",
+      "slug": "habero-er407"
+    },
+    "code": {
+      "id": "ER407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.296",
+      "lon": "38.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER405",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Hagaz",
+      "en": "Hagaz",
+      "slug": "hagaz-er405"
+    },
+    "code": {
+      "id": "ER405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.755",
+      "lon": "38.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER406",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Halhal",
+      "en": "Halhal",
+      "slug": "halhal-er406"
+    },
+    "code": {
+      "id": "ER406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.031",
+      "lon": "38.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER411",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Hamelmalo",
+      "en": "Hamelmalo",
+      "slug": "hamelmalo-er411"
+    },
+    "code": {
+      "id": "ER411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.915",
+      "lon": "38.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER510",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Haykota",
+      "en": "Haykota",
+      "slug": "haykota-er510"
+    },
+    "code": {
+      "id": "ER510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.215",
+      "lon": "36.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER309",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Karura",
+      "en": "Karura",
+      "slug": "karura-er309"
+    },
+    "code": {
+      "id": "ER309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER3",
+        "level": 1,
+        "name": {
+          "local": "Semienawi Keih Bahri",
+          "en": "Semienawi Keih Bahri",
+          "slug": "semienawi-keih-bahri-er3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.385",
+      "lon": "38.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER404",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Keren",
+      "en": "Keren",
+      "slug": "keren-er404"
+    },
+    "code": {
+      "id": "ER404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.802",
+      "lon": "38.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER409",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Kerkebet",
+      "en": "Kerkebet",
+      "slug": "kerkebet-er409"
+    },
+    "code": {
+      "id": "ER409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "37.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER511",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Lalay Gash",
+      "en": "Lalay Gash",
+      "slug": "lalay-gash-er511"
+    },
+    "code": {
+      "id": "ER511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.622",
+      "lon": "37.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER501",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Logo Anseba",
+      "en": "Logo Anseba",
+      "slug": "logo-anseba-er501"
+    },
+    "code": {
+      "id": "ER501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.401",
+      "lon": "38.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER102",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Maekel Deb.Keih Bahri",
+      "en": "Maekel Deb.Keih Bahri",
+      "slug": "maekel-debkeih-bahri-er102"
+    },
+    "code": {
+      "id": "ER102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER1",
+      "level": 1,
+      "name": {
+        "local": "Debubawi Keih Bahri",
+        "en": "Debubawi Keih Bahri",
+        "slug": "debubawi-keih-bahri-er1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER1",
+        "level": 1,
+        "name": {
+          "local": "Debubawi Keih Bahri",
+          "en": "Debubawi Keih Bahri",
+          "slug": "debubawi-keih-bahri-er1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.746",
+      "lon": "41.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER611",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Maimine",
+      "en": "Maimine",
+      "slug": "maimine-er611"
+    },
+    "code": {
+      "id": "ER611",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER6",
+        "level": 1,
+        "name": {
+          "local": "Debub",
+          "en": "Debub",
+          "slug": "debub-er6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.553",
+      "lon": "38.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER304",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Massawa",
+      "en": "Massawa",
+      "slug": "massawa-er304"
+    },
+    "code": {
+      "id": "ER304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER3",
+        "level": 1,
+        "name": {
+          "local": "Semienawi Keih Bahri",
+          "en": "Semienawi Keih Bahri",
+          "slug": "semienawi-keih-bahri-er3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.643",
+      "lon": "39.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER612",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "May Aini",
+      "en": "May Aini",
+      "slug": "may-aini-er612"
+    },
+    "code": {
+      "id": "ER612",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER6",
+        "level": 1,
+        "name": {
+          "local": "Debub",
+          "en": "Debub",
+          "slug": "debub-er6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.783",
+      "lon": "39.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER603",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Mendefera",
+      "en": "Mendefera",
+      "slug": "mendefera-er603"
+    },
+    "code": {
+      "id": "ER603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER6",
+        "level": 1,
+        "name": {
+          "local": "Debub",
+          "en": "Debub",
+          "slug": "debub-er6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.861",
+      "lon": "38.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER502",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Mensura",
+      "en": "Mensura",
+      "slug": "mensura-er502"
+    },
+    "code": {
+      "id": "ER502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.48",
+      "lon": "38.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER505",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Mogolo",
+      "en": "Mogolo",
+      "slug": "mogolo-er505"
+    },
+    "code": {
+      "id": "ER505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.326",
+      "lon": "37.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER514",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Molqi",
+      "en": "Molqi",
+      "slug": "molqi-er514"
+    },
+    "code": {
+      "id": "ER514",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.994",
+      "lon": "38.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER308",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Nakfa",
+      "en": "Nakfa",
+      "slug": "nakfa-er308"
+    },
+    "code": {
+      "id": "ER308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER3",
+        "level": 1,
+        "name": {
+          "local": "Semienawi Keih Bahri",
+          "en": "Semienawi Keih Bahri",
+          "slug": "semienawi-keih-bahri-er3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.728",
+      "lon": "38.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER512",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Omhajer",
+      "en": "Omhajer",
+      "slug": "omhajer-er512"
+    },
+    "code": {
+      "id": "ER512",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.648",
+      "lon": "36.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER605",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Segeneity",
+      "en": "Segeneity",
+      "slug": "segeneity-er605"
+    },
+    "code": {
+      "id": "ER605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER6",
+        "level": 1,
+        "name": {
+          "local": "Debub",
+          "en": "Debub",
+          "slug": "debub-er6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.059",
+      "lon": "39.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER410",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Sela",
+      "en": "Sela",
+      "slug": "sela-er410"
+    },
+    "code": {
+      "id": "ER410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER4",
+        "level": 1,
+        "name": {
+          "local": "Anseba",
+          "en": "Anseba",
+          "slug": "anseba-er4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.889",
+      "lon": "37.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER204",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Semienawi Mibrak",
+      "en": "Semienawi Mibrak",
+      "slug": "semienawi-mibrak-er204"
+    },
+    "code": {
+      "id": "ER204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.353",
+      "lon": "38.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER207",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Semienawi Mierab",
+      "en": "Semienawi Mierab",
+      "slug": "semienawi-mierab-er207"
+    },
+    "code": {
+      "id": "ER207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.377",
+      "lon": "38.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER607",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Senafe",
+      "en": "Senafe",
+      "slug": "senafe-er607"
+    },
+    "code": {
+      "id": "ER607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER6",
+        "level": 1,
+        "name": {
+          "local": "Debub",
+          "en": "Debub",
+          "slug": "debub-er6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.702",
+      "lon": "39.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER201",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Serejeka",
+      "en": "Serejeka",
+      "slug": "serejeka-er201"
+    },
+    "code": {
+      "id": "ER201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER2",
+      "level": 1,
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER2",
+        "level": 1,
+        "name": {
+          "local": "Maekel",
+          "en": "Maekel",
+          "slug": "maekel-er2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.455",
+      "lon": "38.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER506",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Shambuko",
+      "en": "Shambuko",
+      "slug": "shambuko-er506"
+    },
+    "code": {
+      "id": "ER506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.923",
+      "lon": "37.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER306",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Shieb",
+      "en": "Shieb",
+      "slug": "shieb-er306"
+    },
+    "code": {
+      "id": "ER306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER3",
+        "level": 1,
+        "name": {
+          "local": "Semienawi Keih Bahri",
+          "en": "Semienawi Keih Bahri",
+          "slug": "semienawi-keih-bahri-er3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.818",
+      "lon": "39.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER513",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Tesseney",
+      "en": "Tesseney",
+      "slug": "tesseney-er513"
+    },
+    "code": {
+      "id": "ER513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.181",
+      "lon": "36.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER608",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Tsorona",
+      "en": "Tsorona",
+      "slug": "tsorona-er608"
+    },
+    "code": {
+      "id": "ER608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER6",
+        "level": 1,
+        "name": {
+          "local": "Debub",
+          "en": "Debub",
+          "slug": "debub-er6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.605",
+      "lon": "39.272"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

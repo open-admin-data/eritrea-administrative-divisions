@@ -1,0 +1,29 @@
+{
+  "id": "ER5",
+  "level": 1,
+  "level_name": {
+    "local": "ዞባ",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Gash Barka",
+    "en": "Gash Barka",
+    "slug": "gash-barka-er5"
+  },
+  "code": {
+    "id": "ER5",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "subregion": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.251",
+    "lon": "37.626"
+  },
+  "metadata": {},
+  "source": {}
+}

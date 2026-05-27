@@ -1,0 +1,45 @@
+{
+  "id": "ER512",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Omhajer",
+    "en": "Omhajer",
+    "slug": "omhajer-er512"
+  },
+  "code": {
+    "id": "ER512",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER5",
+    "level": 1,
+    "name": {
+      "local": "Gash Barka",
+      "en": "Gash Barka",
+      "slug": "gash-barka-er5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.648",
+    "lon": "36.779"
+  },
+  "metadata": {},
+  "source": {}
+}

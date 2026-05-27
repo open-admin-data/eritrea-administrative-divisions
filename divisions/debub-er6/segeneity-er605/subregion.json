@@ -1,0 +1,45 @@
+{
+  "id": "ER605",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Segeneity",
+    "en": "Segeneity",
+    "slug": "segeneity-er605"
+  },
+  "code": {
+    "id": "ER605",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER6",
+    "level": 1,
+    "name": {
+      "local": "Debub",
+      "en": "Debub",
+      "slug": "debub-er6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.059",
+    "lon": "39.231"
+  },
+  "metadata": {},
+  "source": {}
+}

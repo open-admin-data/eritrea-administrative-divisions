@@ -1,0 +1,632 @@
+[
+  {
+    "id": "ER503",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Akurdet",
+      "en": "Akurdet",
+      "slug": "akurdet-er503"
+    },
+    "code": {
+      "id": "ER503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.559",
+      "lon": "37.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER507",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Barentu",
+      "en": "Barentu",
+      "slug": "barentu-er507"
+    },
+    "code": {
+      "id": "ER507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.11",
+      "lon": "37.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER504",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Dige",
+      "en": "Dige",
+      "slug": "dige-er504"
+    },
+    "code": {
+      "id": "ER504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.722",
+      "lon": "37.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER509",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Forto",
+      "en": "Forto",
+      "slug": "forto-er509"
+    },
+    "code": {
+      "id": "ER509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.822",
+      "lon": "36.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER508",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Gogne",
+      "en": "Gogne",
+      "slug": "gogne-er508"
+    },
+    "code": {
+      "id": "ER508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.144",
+      "lon": "37.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER510",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Haykota",
+      "en": "Haykota",
+      "slug": "haykota-er510"
+    },
+    "code": {
+      "id": "ER510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.215",
+      "lon": "36.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER511",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Lalay Gash",
+      "en": "Lalay Gash",
+      "slug": "lalay-gash-er511"
+    },
+    "code": {
+      "id": "ER511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.622",
+      "lon": "37.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER501",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Logo Anseba",
+      "en": "Logo Anseba",
+      "slug": "logo-anseba-er501"
+    },
+    "code": {
+      "id": "ER501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.401",
+      "lon": "38.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER502",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Mensura",
+      "en": "Mensura",
+      "slug": "mensura-er502"
+    },
+    "code": {
+      "id": "ER502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.48",
+      "lon": "38.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER505",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Mogolo",
+      "en": "Mogolo",
+      "slug": "mogolo-er505"
+    },
+    "code": {
+      "id": "ER505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.326",
+      "lon": "37.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER514",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Molqi",
+      "en": "Molqi",
+      "slug": "molqi-er514"
+    },
+    "code": {
+      "id": "ER514",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.994",
+      "lon": "38.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER512",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Omhajer",
+      "en": "Omhajer",
+      "slug": "omhajer-er512"
+    },
+    "code": {
+      "id": "ER512",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.648",
+      "lon": "36.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER506",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Shambuko",
+      "en": "Shambuko",
+      "slug": "shambuko-er506"
+    },
+    "code": {
+      "id": "ER506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.923",
+      "lon": "37.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ER513",
+    "level": 2,
+    "level_name": {
+      "local": "ንኡስ ዞባ",
+      "en": "Sub-region"
+    },
+    "name": {
+      "local": "Tesseney",
+      "en": "Tesseney",
+      "slug": "tesseney-er513"
+    },
+    "code": {
+      "id": "ER513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ER5",
+      "level": 1,
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ER5",
+        "level": 1,
+        "name": {
+          "local": "Gash Barka",
+          "en": "Gash Barka",
+          "slug": "gash-barka-er5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.181",
+      "lon": "36.59"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

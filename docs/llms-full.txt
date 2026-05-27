@@ -1,0 +1,23 @@
+# Eritrea Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Anseba](https://github.com/open-admin-data/eritrea-administrative-divisions/blob/main/docs/llms-full/anseba-er4.txt) — 11 sub-regions
+- [Debub](https://github.com/open-admin-data/eritrea-administrative-divisions/blob/main/docs/llms-full/debub-er6.txt) — 12 sub-regions
+- [Debubawi Keih Bahri](https://github.com/open-admin-data/eritrea-administrative-divisions/blob/main/docs/llms-full/debubawi-keih-bahri-er1.txt) — 4 sub-regions
+- [Gash Barka](https://github.com/open-admin-data/eritrea-administrative-divisions/blob/main/docs/llms-full/gash-barka-er5.txt) — 14 sub-regions
+- [Maekel](https://github.com/open-admin-data/eritrea-administrative-divisions/blob/main/docs/llms-full/maekel-er2.txt) — 7 sub-regions
+- [Semienawi Keih Bahri](https://github.com/open-admin-data/eritrea-administrative-divisions/blob/main/docs/llms-full/semienawi-keih-bahri-er3.txt) — 10 sub-regions
+
+## Summary
+
+| Region | Sub-regions | 
+|---|---|
+| Anseba | 11 | 
+| Debub | 12 | 
+| Debubawi Keih Bahri | 4 | 
+| Gash Barka | 14 | 
+| Maekel | 7 | 
+| Semienawi Keih Bahri | 10 | 

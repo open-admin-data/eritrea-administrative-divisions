@@ -1,0 +1,29 @@
+{
+  "id": "ER1",
+  "level": 1,
+  "level_name": {
+    "local": "ዞባ",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Debubawi Keih Bahri",
+    "en": "Debubawi Keih Bahri",
+    "slug": "debubawi-keih-bahri-er1"
+  },
+  "code": {
+    "id": "ER1",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "subregion": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.689",
+    "lon": "41.653"
+  },
+  "metadata": {},
+  "source": {}
+}

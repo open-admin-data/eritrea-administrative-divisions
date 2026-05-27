@@ -1,0 +1,29 @@
+{
+  "id": "ER6",
+  "level": 1,
+  "level_name": {
+    "local": "ዞባ",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Debub",
+    "en": "Debub",
+    "slug": "debub-er6"
+  },
+  "code": {
+    "id": "ER6",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "subregion": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.835",
+    "lon": "39.007"
+  },
+  "metadata": {},
+  "source": {}
+}

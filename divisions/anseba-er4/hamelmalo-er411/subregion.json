@@ -1,0 +1,45 @@
+{
+  "id": "ER411",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Hamelmalo",
+    "en": "Hamelmalo",
+    "slug": "hamelmalo-er411"
+  },
+  "code": {
+    "id": "ER411",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER4",
+    "level": 1,
+    "name": {
+      "local": "Anseba",
+      "en": "Anseba",
+      "slug": "anseba-er4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER4",
+      "level": 1,
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.915",
+    "lon": "38.434"
+  },
+  "metadata": {},
+  "source": {}
+}

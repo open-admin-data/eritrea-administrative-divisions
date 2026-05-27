@@ -1,0 +1,45 @@
+{
+  "id": "ER606",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Adi Keyh",
+    "en": "Adi Keyh",
+    "slug": "adi-keyh-er606"
+  },
+  "code": {
+    "id": "ER606",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER6",
+    "level": 1,
+    "name": {
+      "local": "Debub",
+      "en": "Debub",
+      "slug": "debub-er6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER6",
+      "level": 1,
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.884",
+    "lon": "39.389"
+  },
+  "metadata": {},
+  "source": {}
+}

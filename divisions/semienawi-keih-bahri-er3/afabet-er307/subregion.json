@@ -1,0 +1,45 @@
+{
+  "id": "ER307",
+  "level": 2,
+  "level_name": {
+    "local": "ንኡስ ዞባ",
+    "en": "Sub-region"
+  },
+  "name": {
+    "local": "Afabet",
+    "en": "Afabet",
+    "slug": "afabet-er307"
+  },
+  "code": {
+    "id": "ER307",
+    "iso": null
+  },
+  "parent": {
+    "id": "ER3",
+    "level": 1,
+    "name": {
+      "local": "Semienawi Keih Bahri",
+      "en": "Semienawi Keih Bahri",
+      "slug": "semienawi-keih-bahri-er3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ER3",
+      "level": 1,
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.404",
+    "lon": "38.815"
+  },
+  "metadata": {},
+  "source": {}
+}
