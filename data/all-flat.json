@@ -1,176 +1,203 @@
-[
-  {
-    "id": "ER1",
-    "level": 1,
-    "level_name": {
-      "local": "ዞባ",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Debubawi Keih Bahri",
-      "en": "Debubawi Keih Bahri",
-      "slug": "debubawi-keih-bahri-er1"
-    },
-    "code": {
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/er/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/eritrea-administrative-divisions",
+  "data": [
+    {
       "id": "ER1",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "ዞባ",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Debubawi Keih Bahri",
+        "en": "Debubawi Keih Bahri",
+        "slug": "debubawi-keih-bahri-er1"
+      },
+      "code": {
+        "id": "ER1",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "subregion": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.689",
+        "lon": "41.653"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/er/regions/debubawi-keih-bahri-er1/",
+        "api": "https://openadmindata.org/api/er/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "subregion": 4
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "13.689",
-      "lon": "41.653"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "ER2",
-    "level": 1,
-    "level_name": {
-      "local": "ዞባ",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Maekel",
-      "en": "Maekel",
-      "slug": "maekel-er2"
-    },
-    "code": {
+    {
       "id": "ER2",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "ዞባ",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      },
+      "code": {
+        "id": "ER2",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "subregion": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "15.37",
+        "lon": "38.883"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/er/regions/maekel-er2/",
+        "api": "https://openadmindata.org/api/er/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "subregion": 7
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "15.37",
-      "lon": "38.883"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "ER3",
-    "level": 1,
-    "level_name": {
-      "local": "ዞባ",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Semienawi Keih Bahri",
-      "en": "Semienawi Keih Bahri",
-      "slug": "semienawi-keih-bahri-er3"
-    },
-    "code": {
+    {
       "id": "ER3",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "ዞባ",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      },
+      "code": {
+        "id": "ER3",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "subregion": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "16.156",
+        "lon": "38.852"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/er/regions/semienawi-keih-bahri-er3/",
+        "api": "https://openadmindata.org/api/er/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "subregion": 10
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "16.156",
-      "lon": "38.852"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "ER4",
-    "level": 1,
-    "level_name": {
-      "local": "ዞባ",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Anseba",
-      "en": "Anseba",
-      "slug": "anseba-er4"
-    },
-    "code": {
+    {
       "id": "ER4",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "ዞባ",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      },
+      "code": {
+        "id": "ER4",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "subregion": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "16.506",
+        "lon": "37.593"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/er/regions/anseba-er4/",
+        "api": "https://openadmindata.org/api/er/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "subregion": 11
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "16.506",
-      "lon": "37.593"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "ER5",
-    "level": 1,
-    "level_name": {
-      "local": "ዞባ",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Gash Barka",
-      "en": "Gash Barka",
-      "slug": "gash-barka-er5"
-    },
-    "code": {
+    {
       "id": "ER5",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "ዞባ",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      },
+      "code": {
+        "id": "ER5",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "subregion": 14
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "15.251",
+        "lon": "37.626"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/er/regions/gash-barka-er5/",
+        "api": "https://openadmindata.org/api/er/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "subregion": 14
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "15.251",
-      "lon": "37.626"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "ER6",
-    "level": 1,
-    "level_name": {
-      "local": "ዞባ",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Debub",
-      "en": "Debub",
-      "slug": "debub-er6"
-    },
-    "code": {
+    {
       "id": "ER6",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "subregion": 12
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "14.835",
-      "lon": "39.007"
-    },
-    "metadata": {},
-    "source": {}
-  }
-]
+      "level": 1,
+      "level_name": {
+        "local": "ዞባ",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      },
+      "code": {
+        "id": "ER6",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "subregion": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "14.835",
+        "lon": "39.007"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/er/regions/debub-er6/",
+        "api": "https://openadmindata.org/api/er/"
+      }
+    }
+  ]
+}

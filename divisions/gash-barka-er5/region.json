@@ -25,5 +25,9 @@
     "lon": "37.626"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/er/regions/gash-barka-er5/",
+    "api": "https://openadmindata.org/api/er/"
+  }
 }

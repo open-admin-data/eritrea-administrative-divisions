@@ -25,5 +25,9 @@
     "lon": "38.852"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/er/regions/semienawi-keih-bahri-er3/",
+    "api": "https://openadmindata.org/api/er/"
+  }
 }

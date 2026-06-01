@@ -26,7 +26,11 @@
       "lon": "37.593"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/er/regions/anseba-er4/",
+      "api": "https://openadmindata.org/api/er/"
+    }
   },
   {
     "id": "ER6",
@@ -55,7 +59,11 @@
       "lon": "39.007"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/er/regions/debub-er6/",
+      "api": "https://openadmindata.org/api/er/"
+    }
   },
   {
     "id": "ER1",
@@ -84,7 +92,11 @@
       "lon": "41.653"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/er/regions/debubawi-keih-bahri-er1/",
+      "api": "https://openadmindata.org/api/er/"
+    }
   },
   {
     "id": "ER5",
@@ -113,7 +125,11 @@
       "lon": "37.626"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/er/regions/gash-barka-er5/",
+      "api": "https://openadmindata.org/api/er/"
+    }
   },
   {
     "id": "ER2",
@@ -142,7 +158,11 @@
       "lon": "38.883"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/er/regions/maekel-er2/",
+      "api": "https://openadmindata.org/api/er/"
+    }
   },
   {
     "id": "ER3",
@@ -171,6 +191,10 @@
       "lon": "38.852"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/er/regions/semienawi-keih-bahri-er3/",
+      "api": "https://openadmindata.org/api/er/"
+    }
   }
 ]

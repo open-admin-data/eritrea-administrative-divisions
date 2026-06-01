@@ -1,782 +1,785 @@
-[
-  {
-    "id": "ER4",
-    "name": {
-      "local": "Anseba",
-      "en": "Anseba",
-      "slug": "anseba-er4"
-    },
-    "code": {
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/er/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/eritrea-administrative-divisions",
+  "data": [
+    {
       "id": "ER4",
-      "iso": null
-    },
-    "subregion": [
-      {
-        "id": "ER401",
-        "name": {
-          "local": "Adi Tekeliezan",
-          "en": "Adi Tekeliezan",
-          "slug": "adi-tekeliezan-er401"
-        },
-        "code": {
+      "name": {
+        "local": "Anseba",
+        "en": "Anseba",
+        "slug": "anseba-er4"
+      },
+      "code": {
+        "id": "ER4",
+        "iso": null
+      },
+      "subregion": [
+        {
           "id": "ER401",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER408",
-        "name": {
-          "local": "Asmat",
-          "en": "Asmat",
-          "slug": "asmat-er408"
+          "name": {
+            "local": "Adi Tekeliezan",
+            "en": "Adi Tekeliezan",
+            "slug": "adi-tekeliezan-er401"
+          },
+          "code": {
+            "id": "ER401",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER408",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER402",
-        "name": {
-          "local": "Elabered",
-          "en": "Elabered",
-          "slug": "elabered-er402"
+          "name": {
+            "local": "Asmat",
+            "en": "Asmat",
+            "slug": "asmat-er408"
+          },
+          "code": {
+            "id": "ER408",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER402",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER403",
-        "name": {
-          "local": "Gheleb",
-          "en": "Gheleb",
-          "slug": "gheleb-er403"
+          "name": {
+            "local": "Elabered",
+            "en": "Elabered",
+            "slug": "elabered-er402"
+          },
+          "code": {
+            "id": "ER402",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER403",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER407",
-        "name": {
-          "local": "Habero",
-          "en": "Habero",
-          "slug": "habero-er407"
+          "name": {
+            "local": "Gheleb",
+            "en": "Gheleb",
+            "slug": "gheleb-er403"
+          },
+          "code": {
+            "id": "ER403",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER407",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER405",
-        "name": {
-          "local": "Hagaz",
-          "en": "Hagaz",
-          "slug": "hagaz-er405"
+          "name": {
+            "local": "Habero",
+            "en": "Habero",
+            "slug": "habero-er407"
+          },
+          "code": {
+            "id": "ER407",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER405",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER406",
-        "name": {
-          "local": "Halhal",
-          "en": "Halhal",
-          "slug": "halhal-er406"
+          "name": {
+            "local": "Hagaz",
+            "en": "Hagaz",
+            "slug": "hagaz-er405"
+          },
+          "code": {
+            "id": "ER405",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER406",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER411",
-        "name": {
-          "local": "Hamelmalo",
-          "en": "Hamelmalo",
-          "slug": "hamelmalo-er411"
+          "name": {
+            "local": "Halhal",
+            "en": "Halhal",
+            "slug": "halhal-er406"
+          },
+          "code": {
+            "id": "ER406",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER411",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER404",
-        "name": {
-          "local": "Keren",
-          "en": "Keren",
-          "slug": "keren-er404"
+          "name": {
+            "local": "Hamelmalo",
+            "en": "Hamelmalo",
+            "slug": "hamelmalo-er411"
+          },
+          "code": {
+            "id": "ER411",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER404",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER409",
-        "name": {
-          "local": "Kerkebet",
-          "en": "Kerkebet",
-          "slug": "kerkebet-er409"
+          "name": {
+            "local": "Keren",
+            "en": "Keren",
+            "slug": "keren-er404"
+          },
+          "code": {
+            "id": "ER404",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER409",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER410",
-        "name": {
-          "local": "Sela",
-          "en": "Sela",
-          "slug": "sela-er410"
+          "name": {
+            "local": "Kerkebet",
+            "en": "Kerkebet",
+            "slug": "kerkebet-er409"
+          },
+          "code": {
+            "id": "ER409",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER410",
-          "iso": null
+          "name": {
+            "local": "Sela",
+            "en": "Sela",
+            "slug": "sela-er410"
+          },
+          "code": {
+            "id": "ER410",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "ER6",
-    "name": {
-      "local": "Debub",
-      "en": "Debub",
-      "slug": "debub-er6"
+      ]
     },
-    "code": {
+    {
       "id": "ER6",
-      "iso": null
-    },
-    "subregion": [
-      {
-        "id": "ER606",
-        "name": {
-          "local": "Adi Keyh",
-          "en": "Adi Keyh",
-          "slug": "adi-keyh-er606"
-        },
-        "code": {
+      "name": {
+        "local": "Debub",
+        "en": "Debub",
+        "slug": "debub-er6"
+      },
+      "code": {
+        "id": "ER6",
+        "iso": null
+      },
+      "subregion": [
+        {
           "id": "ER606",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER609",
-        "name": {
-          "local": "Adi Quala",
-          "en": "Adi Quala",
-          "slug": "adi-quala-er609"
+          "name": {
+            "local": "Adi Keyh",
+            "en": "Adi Keyh",
+            "slug": "adi-keyh-er606"
+          },
+          "code": {
+            "id": "ER606",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER609",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER602",
-        "name": {
-          "local": "Areza",
-          "en": "Areza",
-          "slug": "areza-er602"
+          "name": {
+            "local": "Adi Quala",
+            "en": "Adi Quala",
+            "slug": "adi-quala-er609"
+          },
+          "code": {
+            "id": "ER609",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER602",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER601",
-        "name": {
-          "local": "Dbarwa",
-          "en": "Dbarwa",
-          "slug": "dbarwa-er601"
+          "name": {
+            "local": "Areza",
+            "en": "Areza",
+            "slug": "areza-er602"
+          },
+          "code": {
+            "id": "ER602",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER601",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER604",
-        "name": {
-          "local": "Dekemhare",
-          "en": "Dekemhare",
-          "slug": "dekemhare-er604"
+          "name": {
+            "local": "Dbarwa",
+            "en": "Dbarwa",
+            "slug": "dbarwa-er601"
+          },
+          "code": {
+            "id": "ER601",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER604",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER610",
-        "name": {
-          "local": "Emni Haili",
-          "en": "Emni Haili",
-          "slug": "emni-haili-er610"
+          "name": {
+            "local": "Dekemhare",
+            "en": "Dekemhare",
+            "slug": "dekemhare-er604"
+          },
+          "code": {
+            "id": "ER604",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER610",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER611",
-        "name": {
-          "local": "Maimine",
-          "en": "Maimine",
-          "slug": "maimine-er611"
+          "name": {
+            "local": "Emni Haili",
+            "en": "Emni Haili",
+            "slug": "emni-haili-er610"
+          },
+          "code": {
+            "id": "ER610",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER611",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER612",
-        "name": {
-          "local": "May Aini",
-          "en": "May Aini",
-          "slug": "may-aini-er612"
+          "name": {
+            "local": "Maimine",
+            "en": "Maimine",
+            "slug": "maimine-er611"
+          },
+          "code": {
+            "id": "ER611",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER612",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER603",
-        "name": {
-          "local": "Mendefera",
-          "en": "Mendefera",
-          "slug": "mendefera-er603"
+          "name": {
+            "local": "May Aini",
+            "en": "May Aini",
+            "slug": "may-aini-er612"
+          },
+          "code": {
+            "id": "ER612",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER603",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER605",
-        "name": {
-          "local": "Segeneity",
-          "en": "Segeneity",
-          "slug": "segeneity-er605"
+          "name": {
+            "local": "Mendefera",
+            "en": "Mendefera",
+            "slug": "mendefera-er603"
+          },
+          "code": {
+            "id": "ER603",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER605",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER607",
-        "name": {
-          "local": "Senafe",
-          "en": "Senafe",
-          "slug": "senafe-er607"
+          "name": {
+            "local": "Segeneity",
+            "en": "Segeneity",
+            "slug": "segeneity-er605"
+          },
+          "code": {
+            "id": "ER605",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER607",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER608",
-        "name": {
-          "local": "Tsorona",
-          "en": "Tsorona",
-          "slug": "tsorona-er608"
+          "name": {
+            "local": "Senafe",
+            "en": "Senafe",
+            "slug": "senafe-er607"
+          },
+          "code": {
+            "id": "ER607",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER608",
-          "iso": null
+          "name": {
+            "local": "Tsorona",
+            "en": "Tsorona",
+            "slug": "tsorona-er608"
+          },
+          "code": {
+            "id": "ER608",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "ER1",
-    "name": {
-      "local": "Debubawi Keih Bahri",
-      "en": "Debubawi Keih Bahri",
-      "slug": "debubawi-keih-bahri-er1"
+      ]
     },
-    "code": {
+    {
       "id": "ER1",
-      "iso": null
-    },
-    "subregion": [
-      {
-        "id": "ER101",
-        "name": {
-          "local": "Araeta",
-          "en": "Araeta",
-          "slug": "araeta-er101"
-        },
-        "code": {
+      "name": {
+        "local": "Debubawi Keih Bahri",
+        "en": "Debubawi Keih Bahri",
+        "slug": "debubawi-keih-bahri-er1"
+      },
+      "code": {
+        "id": "ER1",
+        "iso": null
+      },
+      "subregion": [
+        {
           "id": "ER101",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER104",
-        "name": {
-          "local": "Asseb",
-          "en": "Asseb",
-          "slug": "asseb-er104"
+          "name": {
+            "local": "Araeta",
+            "en": "Araeta",
+            "slug": "araeta-er101"
+          },
+          "code": {
+            "id": "ER101",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER104",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER103",
-        "name": {
-          "local": "Debub Deb.Keih Bahri",
-          "en": "Debub Deb.Keih Bahri",
-          "slug": "debub-debkeih-bahri-er103"
+          "name": {
+            "local": "Asseb",
+            "en": "Asseb",
+            "slug": "asseb-er104"
+          },
+          "code": {
+            "id": "ER104",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER103",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER102",
-        "name": {
-          "local": "Maekel Deb.Keih Bahri",
-          "en": "Maekel Deb.Keih Bahri",
-          "slug": "maekel-debkeih-bahri-er102"
+          "name": {
+            "local": "Debub Deb.Keih Bahri",
+            "en": "Debub Deb.Keih Bahri",
+            "slug": "debub-debkeih-bahri-er103"
+          },
+          "code": {
+            "id": "ER103",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER102",
-          "iso": null
+          "name": {
+            "local": "Maekel Deb.Keih Bahri",
+            "en": "Maekel Deb.Keih Bahri",
+            "slug": "maekel-debkeih-bahri-er102"
+          },
+          "code": {
+            "id": "ER102",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "ER5",
-    "name": {
-      "local": "Gash Barka",
-      "en": "Gash Barka",
-      "slug": "gash-barka-er5"
+      ]
     },
-    "code": {
+    {
       "id": "ER5",
-      "iso": null
-    },
-    "subregion": [
-      {
-        "id": "ER503",
-        "name": {
-          "local": "Akurdet",
-          "en": "Akurdet",
-          "slug": "akurdet-er503"
-        },
-        "code": {
+      "name": {
+        "local": "Gash Barka",
+        "en": "Gash Barka",
+        "slug": "gash-barka-er5"
+      },
+      "code": {
+        "id": "ER5",
+        "iso": null
+      },
+      "subregion": [
+        {
           "id": "ER503",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER507",
-        "name": {
-          "local": "Barentu",
-          "en": "Barentu",
-          "slug": "barentu-er507"
+          "name": {
+            "local": "Akurdet",
+            "en": "Akurdet",
+            "slug": "akurdet-er503"
+          },
+          "code": {
+            "id": "ER503",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER507",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER504",
-        "name": {
-          "local": "Dige",
-          "en": "Dige",
-          "slug": "dige-er504"
+          "name": {
+            "local": "Barentu",
+            "en": "Barentu",
+            "slug": "barentu-er507"
+          },
+          "code": {
+            "id": "ER507",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER504",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER509",
-        "name": {
-          "local": "Forto",
-          "en": "Forto",
-          "slug": "forto-er509"
+          "name": {
+            "local": "Dige",
+            "en": "Dige",
+            "slug": "dige-er504"
+          },
+          "code": {
+            "id": "ER504",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER509",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER508",
-        "name": {
-          "local": "Gogne",
-          "en": "Gogne",
-          "slug": "gogne-er508"
+          "name": {
+            "local": "Forto",
+            "en": "Forto",
+            "slug": "forto-er509"
+          },
+          "code": {
+            "id": "ER509",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER508",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER510",
-        "name": {
-          "local": "Haykota",
-          "en": "Haykota",
-          "slug": "haykota-er510"
+          "name": {
+            "local": "Gogne",
+            "en": "Gogne",
+            "slug": "gogne-er508"
+          },
+          "code": {
+            "id": "ER508",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER510",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER511",
-        "name": {
-          "local": "Lalay Gash",
-          "en": "Lalay Gash",
-          "slug": "lalay-gash-er511"
+          "name": {
+            "local": "Haykota",
+            "en": "Haykota",
+            "slug": "haykota-er510"
+          },
+          "code": {
+            "id": "ER510",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER511",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER501",
-        "name": {
-          "local": "Logo Anseba",
-          "en": "Logo Anseba",
-          "slug": "logo-anseba-er501"
+          "name": {
+            "local": "Lalay Gash",
+            "en": "Lalay Gash",
+            "slug": "lalay-gash-er511"
+          },
+          "code": {
+            "id": "ER511",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER501",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER502",
-        "name": {
-          "local": "Mensura",
-          "en": "Mensura",
-          "slug": "mensura-er502"
+          "name": {
+            "local": "Logo Anseba",
+            "en": "Logo Anseba",
+            "slug": "logo-anseba-er501"
+          },
+          "code": {
+            "id": "ER501",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER502",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER505",
-        "name": {
-          "local": "Mogolo",
-          "en": "Mogolo",
-          "slug": "mogolo-er505"
+          "name": {
+            "local": "Mensura",
+            "en": "Mensura",
+            "slug": "mensura-er502"
+          },
+          "code": {
+            "id": "ER502",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER505",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER514",
-        "name": {
-          "local": "Molqi",
-          "en": "Molqi",
-          "slug": "molqi-er514"
+          "name": {
+            "local": "Mogolo",
+            "en": "Mogolo",
+            "slug": "mogolo-er505"
+          },
+          "code": {
+            "id": "ER505",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER514",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER512",
-        "name": {
-          "local": "Omhajer",
-          "en": "Omhajer",
-          "slug": "omhajer-er512"
+          "name": {
+            "local": "Molqi",
+            "en": "Molqi",
+            "slug": "molqi-er514"
+          },
+          "code": {
+            "id": "ER514",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER512",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER506",
-        "name": {
-          "local": "Shambuko",
-          "en": "Shambuko",
-          "slug": "shambuko-er506"
+          "name": {
+            "local": "Omhajer",
+            "en": "Omhajer",
+            "slug": "omhajer-er512"
+          },
+          "code": {
+            "id": "ER512",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER506",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER513",
-        "name": {
-          "local": "Tesseney",
-          "en": "Tesseney",
-          "slug": "tesseney-er513"
+          "name": {
+            "local": "Shambuko",
+            "en": "Shambuko",
+            "slug": "shambuko-er506"
+          },
+          "code": {
+            "id": "ER506",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER513",
-          "iso": null
+          "name": {
+            "local": "Tesseney",
+            "en": "Tesseney",
+            "slug": "tesseney-er513"
+          },
+          "code": {
+            "id": "ER513",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "ER2",
-    "name": {
-      "local": "Maekel",
-      "en": "Maekel",
-      "slug": "maekel-er2"
+      ]
     },
-    "code": {
+    {
       "id": "ER2",
-      "iso": null
-    },
-    "subregion": [
-      {
-        "id": "ER202",
-        "name": {
-          "local": "Berik",
-          "en": "Berik",
-          "slug": "berik-er202"
-        },
-        "code": {
+      "name": {
+        "local": "Maekel",
+        "en": "Maekel",
+        "slug": "maekel-er2"
+      },
+      "code": {
+        "id": "ER2",
+        "iso": null
+      },
+      "subregion": [
+        {
           "id": "ER202",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER205",
-        "name": {
-          "local": "Debubawi Mibrak",
-          "en": "Debubawi Mibrak",
-          "slug": "debubawi-mibrak-er205"
+          "name": {
+            "local": "Berik",
+            "en": "Berik",
+            "slug": "berik-er202"
+          },
+          "code": {
+            "id": "ER202",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER205",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER206",
-        "name": {
-          "local": "Debubawi Mierab",
-          "en": "Debubawi Mierab",
-          "slug": "debubawi-mierab-er206"
+          "name": {
+            "local": "Debubawi Mibrak",
+            "en": "Debubawi Mibrak",
+            "slug": "debubawi-mibrak-er205"
+          },
+          "code": {
+            "id": "ER205",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER206",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER203",
-        "name": {
-          "local": "Galanefhi",
-          "en": "Galanefhi",
-          "slug": "galanefhi-er203"
+          "name": {
+            "local": "Debubawi Mierab",
+            "en": "Debubawi Mierab",
+            "slug": "debubawi-mierab-er206"
+          },
+          "code": {
+            "id": "ER206",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER203",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER204",
-        "name": {
-          "local": "Semienawi Mibrak",
-          "en": "Semienawi Mibrak",
-          "slug": "semienawi-mibrak-er204"
+          "name": {
+            "local": "Galanefhi",
+            "en": "Galanefhi",
+            "slug": "galanefhi-er203"
+          },
+          "code": {
+            "id": "ER203",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER204",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER207",
-        "name": {
-          "local": "Semienawi Mierab",
-          "en": "Semienawi Mierab",
-          "slug": "semienawi-mierab-er207"
+          "name": {
+            "local": "Semienawi Mibrak",
+            "en": "Semienawi Mibrak",
+            "slug": "semienawi-mibrak-er204"
+          },
+          "code": {
+            "id": "ER204",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER207",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER201",
-        "name": {
-          "local": "Serejeka",
-          "en": "Serejeka",
-          "slug": "serejeka-er201"
+          "name": {
+            "local": "Semienawi Mierab",
+            "en": "Semienawi Mierab",
+            "slug": "semienawi-mierab-er207"
+          },
+          "code": {
+            "id": "ER207",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER201",
-          "iso": null
+          "name": {
+            "local": "Serejeka",
+            "en": "Serejeka",
+            "slug": "serejeka-er201"
+          },
+          "code": {
+            "id": "ER201",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "ER3",
-    "name": {
-      "local": "Semienawi Keih Bahri",
-      "en": "Semienawi Keih Bahri",
-      "slug": "semienawi-keih-bahri-er3"
+      ]
     },
-    "code": {
+    {
       "id": "ER3",
-      "iso": null
-    },
-    "subregion": [
-      {
-        "id": "ER310",
-        "name": {
-          "local": "Adobha",
-          "en": "Adobha",
-          "slug": "adobha-er310"
-        },
-        "code": {
+      "name": {
+        "local": "Semienawi Keih Bahri",
+        "en": "Semienawi Keih Bahri",
+        "slug": "semienawi-keih-bahri-er3"
+      },
+      "code": {
+        "id": "ER3",
+        "iso": null
+      },
+      "subregion": [
+        {
           "id": "ER310",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER307",
-        "name": {
-          "local": "Afabet",
-          "en": "Afabet",
-          "slug": "afabet-er307"
+          "name": {
+            "local": "Adobha",
+            "en": "Adobha",
+            "slug": "adobha-er310"
+          },
+          "code": {
+            "id": "ER310",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER307",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER303",
-        "name": {
-          "local": "Dahlak",
-          "en": "Dahlak",
-          "slug": "dahlak-er303"
+          "name": {
+            "local": "Afabet",
+            "en": "Afabet",
+            "slug": "afabet-er307"
+          },
+          "code": {
+            "id": "ER307",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER303",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER302",
-        "name": {
-          "local": "Foro",
-          "en": "Foro",
-          "slug": "foro-er302"
+          "name": {
+            "local": "Dahlak",
+            "en": "Dahlak",
+            "slug": "dahlak-er303"
+          },
+          "code": {
+            "id": "ER303",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER302",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER301",
-        "name": {
-          "local": "Ghelaelo",
-          "en": "Ghelaelo",
-          "slug": "ghelaelo-er301"
+          "name": {
+            "local": "Foro",
+            "en": "Foro",
+            "slug": "foro-er302"
+          },
+          "code": {
+            "id": "ER302",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER301",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER305",
-        "name": {
-          "local": "Ghinda",
-          "en": "Ghinda",
-          "slug": "ghinda-er305"
+          "name": {
+            "local": "Ghelaelo",
+            "en": "Ghelaelo",
+            "slug": "ghelaelo-er301"
+          },
+          "code": {
+            "id": "ER301",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER305",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER309",
-        "name": {
-          "local": "Karura",
-          "en": "Karura",
-          "slug": "karura-er309"
+          "name": {
+            "local": "Ghinda",
+            "en": "Ghinda",
+            "slug": "ghinda-er305"
+          },
+          "code": {
+            "id": "ER305",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER309",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER304",
-        "name": {
-          "local": "Massawa",
-          "en": "Massawa",
-          "slug": "massawa-er304"
+          "name": {
+            "local": "Karura",
+            "en": "Karura",
+            "slug": "karura-er309"
+          },
+          "code": {
+            "id": "ER309",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER304",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER308",
-        "name": {
-          "local": "Nakfa",
-          "en": "Nakfa",
-          "slug": "nakfa-er308"
+          "name": {
+            "local": "Massawa",
+            "en": "Massawa",
+            "slug": "massawa-er304"
+          },
+          "code": {
+            "id": "ER304",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER308",
-          "iso": null
-        }
-      },
-      {
-        "id": "ER306",
-        "name": {
-          "local": "Shieb",
-          "en": "Shieb",
-          "slug": "shieb-er306"
+          "name": {
+            "local": "Nakfa",
+            "en": "Nakfa",
+            "slug": "nakfa-er308"
+          },
+          "code": {
+            "id": "ER308",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "ER306",
-          "iso": null
+          "name": {
+            "local": "Shieb",
+            "en": "Shieb",
+            "slug": "shieb-er306"
+          },
+          "code": {
+            "id": "ER306",
+            "iso": null
+          }
         }
-      }
-    ]
-  }
-]
+      ]
+    }
+  ]
+}

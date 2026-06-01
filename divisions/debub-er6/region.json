@@ -25,5 +25,9 @@
     "lon": "39.007"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/er/regions/debub-er6/",
+    "api": "https://openadmindata.org/api/er/"
+  }
 }

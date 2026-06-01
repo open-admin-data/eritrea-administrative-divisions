@@ -25,5 +25,9 @@
     "lon": "37.593"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/er/regions/anseba-er4/",
+    "api": "https://openadmindata.org/api/er/"
+  }
 }

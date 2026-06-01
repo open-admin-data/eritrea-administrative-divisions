@@ -1,7 +1,8 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.subregion,zip_codes,geo.lat,geo.lon
-ER1,1,ዞባ,Region,Debubawi Keih Bahri,Debubawi Keih Bahri,debubawi-keih-bahri-er1,ER1,,,,,,4,,13.689,41.653
-ER2,1,ዞባ,Region,Maekel,Maekel,maekel-er2,ER2,,,,,,7,,15.37,38.883
-ER3,1,ዞባ,Region,Semienawi Keih Bahri,Semienawi Keih Bahri,semienawi-keih-bahri-er3,ER3,,,,,,10,,16.156,38.852
-ER4,1,ዞባ,Region,Anseba,Anseba,anseba-er4,ER4,,,,,,11,,16.506,37.593
-ER5,1,ዞባ,Region,Gash Barka,Gash Barka,gash-barka-er5,ER5,,,,,,14,,15.251,37.626
-ER6,1,ዞባ,Region,Debub,Debub,debub-er6,ER6,,,,,,12,,14.835,39.007
+# Data from Open Admin Data (https://openadmindata.org/er/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/eritrea-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.subregion,zip_codes,geo.lat,geo.lon,source_url
+ER1,1,ዞባ,Region,Debubawi Keih Bahri,Debubawi Keih Bahri,debubawi-keih-bahri-er1,ER1,,,,,,4,,13.689,41.653,https://openadmindata.org/er/regions/debubawi-keih-bahri-er1/
+ER2,1,ዞባ,Region,Maekel,Maekel,maekel-er2,ER2,,,,,,7,,15.37,38.883,https://openadmindata.org/er/regions/maekel-er2/
+ER3,1,ዞባ,Region,Semienawi Keih Bahri,Semienawi Keih Bahri,semienawi-keih-bahri-er3,ER3,,,,,,10,,16.156,38.852,https://openadmindata.org/er/regions/semienawi-keih-bahri-er3/
+ER4,1,ዞባ,Region,Anseba,Anseba,anseba-er4,ER4,,,,,,11,,16.506,37.593,https://openadmindata.org/er/regions/anseba-er4/
+ER5,1,ዞባ,Region,Gash Barka,Gash Barka,gash-barka-er5,ER5,,,,,,14,,15.251,37.626,https://openadmindata.org/er/regions/gash-barka-er5/
+ER6,1,ዞባ,Region,Debub,Debub,debub-er6,ER6,,,,,,12,,14.835,39.007,https://openadmindata.org/er/regions/debub-er6/

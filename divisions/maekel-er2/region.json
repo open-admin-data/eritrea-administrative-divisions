@@ -25,5 +25,9 @@
     "lon": "38.883"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/er/regions/maekel-er2/",
+    "api": "https://openadmindata.org/api/er/"
+  }
 }
