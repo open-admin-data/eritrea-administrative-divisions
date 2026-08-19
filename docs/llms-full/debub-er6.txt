@@ -3,7 +3,7 @@
 > 12 sub-regions
 > Code: ER6
 > Coordinates: 14.835, 39.007
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Sub-regions
 

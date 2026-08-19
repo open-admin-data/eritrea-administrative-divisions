@@ -3,7 +3,7 @@
 > 10 sub-regions
 > Code: ER3
 > Coordinates: 16.156, 38.852
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Sub-regions
 
