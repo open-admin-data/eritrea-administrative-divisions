@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/er](https://openadmindata.org/er/) |
 | API | [openadmindata.org/api/er](https://openadmindata.org/api/er/) |
+| Flag | [PNG](https://onlygames.me/flags-png/er/) · [SVG](https://onlygames.me/flags-svg/er/) · [PDF](https://onlygames.me/flags-pdf/er/) |
 | National Anthem | [🎵 Listen & Download Eritrea National Anthem MP3](https://onlygames.me/national-anthems/er/) |
 
 ## Browse by Region
